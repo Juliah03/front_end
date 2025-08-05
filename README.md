@@ -11,10 +11,7 @@
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
-    font-family: var(--fonte-principal);
-    font-size: 16px;
-    font-weight: 400;
-}
+    font-family: var(-
 
 * {
     margin: 0;
